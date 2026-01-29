@@ -16,7 +16,7 @@ This repository is a deep dive into complex data structures and algorithms, focu
 ## Current Progress
 - [x] AVL Tree Implementation 
 - [x] LRU Cache
-- [ ] Graph Algorithms (Coming soon)
+- [x] Graph Algorithms
 
 ## 💻 How to Build and Run
 You can compile the AVL Tree implementation using any standard C++ compiler (like g++).
