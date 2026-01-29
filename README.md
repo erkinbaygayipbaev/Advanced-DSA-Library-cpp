@@ -8,7 +8,7 @@ This repository is a deep dive into complex data structures and algorithms, focu
 * Implement self-balancing trees (AVL, Red-Black Trees).
 * Optimize memory management using smart pointers.
 * Provide clear, production-ready C++ code.
-* 
+  
 ## Tech Stack
 * **Language:** C++17 or higher.
 * **Concepts:** OOP, Templates, Memory Management.
